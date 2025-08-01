@@ -8,6 +8,7 @@ Created as part of my **100 Days of Code** challenge to practice Python programm
 ## � Development Phases
 
 ### Phase 1: Basic Balance & Transactions ⭐
+**Skills**: Python syntax, variables, file I/O, basic functions
 **Goal**: Core functionality with simple data storage
 - Set initial balance
 - Add transactions (description, amount, date)
@@ -16,20 +17,24 @@ Created as part of my **100 Days of Code** challenge to practice Python programm
 - **Storage**: CSV files or simple text files
 
 ### Phase 2: Categories & Organization ⭐⭐
+**Skills**: Lists, dictionaries, data structures, string manipulation, input validation
 **Goal**: Better transaction management
 - Add categories to transactions (Food, Transport, Entertainment, etc.)
 - Filter transactions by category
-- Basic transaction editing/deletion
+- **Stretch Goal**: Basic transaction editing/deletion
 - **Storage**: Still CSV, but better structured
 
 ### Phase 3: SQLite Integration ⭐⭐⭐
+**Skills**: SQL basics, database design, sqlite3 module, exception handling, data migration
 **Goal**: Real database with proper data relationships
 - Migrate from CSV to SQLite database
 - Create proper database schema
 - CRUD operations with SQL queries
 - Data validation and error handling
+- **Note**: Uses Python's built-in `sqlite3` module - no extra libraries needed!
 
 ### Phase 4: Advanced Features & Reports ⭐⭐⭐⭐
+**Skills**: Data analysis, datetime manipulation, aggregation functions, report generation, matplotlib/charts
 **Goal**: Comprehensive expense analysis
 - Monthly/weekly/daily reports
 - Category spending analysis  
@@ -38,11 +43,12 @@ Created as part of my **100 Days of Code** challenge to practice Python programm
 - Data export functionality
 
 ### Phase 5: Enhanced Database & Multi-User ⭐⭐⭐⭐⭐
+**Skills**: Advanced SQL, database relationships, PostgreSQL, security, deployment
 **Goal**: Production-ready application
 - Multiple related tables (budgets, recurring transactions)
-- User accounts and authentication
 - PostgreSQL integration option
 - Advanced querying and analytics
+- **Optional/Web Version**: User accounts and authentication (more relevant for web apps)
 
 ---
 
