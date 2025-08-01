@@ -1,0 +1,21 @@
+# PYTHON INSTALLATION STEPS (if needed):
+
+1. Go to https://python.org/downloads/
+2. Download Python 3.11 or 3.12 (click the yellow "Download Python" button)
+3. **CRITICAL**: During installation, CHECK the box "Add Python to PATH"
+4. Click "Install Now"
+5. Restart your terminal/PowerShell after installation
+
+# AFTER INSTALLATION - Test these commands:
+
+# Test if Python is working:
+python --version
+
+# If that doesn't work, try:
+py --version
+
+# Then run your expense tracker:
+python main.py
+
+# Or if python doesn't work:
+py main.py
