@@ -63,11 +63,40 @@ Created as part of my **100 Days of Code** challenge to practice Python programm
 - [x] **BONUS**: Added optional notes to transactions
 - [x] **LEARNING**: Fully commented code with React/JS comparisons
 
+**Phase 2 (✅ COMPLETE)**:
+- [x] Add predefined categories (Food, Transport, Entertainment, etc.)
+- [x] Reset tracker functionality with confirmation
+- [x] Category selection during transaction entry
+- [x] Update CSV structure to include categories
+- [x] Backwards compatibility for old transactions
+- [x] Filter transactions by category
+- [ ] **Stretch Goal**: Basic transaction editing/deletion
+
 **Phase 1 Learning Progress**:
 - [x] **Day 1**: Python basics, classes, file I/O
 - [x] **Day 2**: Loops, formatting, CSV handling  
 - [x] **Day 3**: Menu systems, user input, program flow
 - [x] **Day 4**: ✅ SUCCESSFUL FIRST TEST RUN! All features working!
+
+**Phase 2 Learning Progress**:
+- [x] **Day 5**: Categories data structure, reset function, menu integration
+- [x] **Day 6**: ✅ Category selection in transactions, CSV structure update, backwards compatibility
+- [x] **Day 7**: ✅ Transaction filtering by category - PHASE 2 COMPLETE!
+- [x] **Day 8**: ✅ Testing and validation of all Phase 2 features
+
+**🎉 LATEST ACHIEVEMENT (August 5, 2025)**:
+**Phase 2 Complete!** Successfully implemented the filter by category feature with:
+- Interactive category selection menu
+- Filtered transaction display matching view_transactions format
+- Backwards compatibility with old CSV data
+- Proper handling of empty results
+- Full menu integration and testing
+
+**Phase 3 Learning Progress**:
+- [ ] **Day 9**: SQLite database setup and schema design
+- [ ] **Day 10**: Data migration from CSV to SQLite
+- [ ] **Day 11**: CRUD operations with SQL queries
+- [ ] **Day 12**: Advanced querying and error handling
 
 ---
 
